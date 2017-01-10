@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		4B4BB9F61D851153000FD3E8 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B4BB9F51D851153000FD3E8 /* CloudKit.framework */; };
 		4B4BB9FA1D86F3A0000FD3E8 /* SearchableRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4BB9F91D86F3A0000FD3E8 /* SearchableRecord.swift */; };
-		4B4BBA441D87E555000FD3E8 /* PhotoSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4BBA431D87E555000FD3E8 /* PhotoSelectViewController.swift */; };
+		4B4BBA441D87E555000FD3E8 /*  in Sources */ = {isa = PBXBuildFile; fileRef = 4B4BBA431D87E555000FD3E8 /*  */; };
 		4B4BBA951D88D81B000FD3E8 /* CloudKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4BBA941D88D81B000FD3E8 /* CloudKitManager.swift */; };
 		4B7D6E881D8374C800A665D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7D6E871D8374C800A665D9 /* AppDelegate.swift */; };
 		4B7D6E8D1D8374C800A665D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B7D6E8B1D8374C800A665D9 /* Main.storyboard */; };
@@ -29,7 +29,7 @@
 /* Begin PBXFileReference section */
 		4B4BB9F51D851153000FD3E8 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
 		4B4BB9F91D86F3A0000FD3E8 /* SearchableRecord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchableRecord.swift; sourceTree = "<group>"; };
-		4B4BBA431D87E555000FD3E8 /* PhotoSelectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PhotoSelectViewController.swift; path = ../PhotoSelectViewController.swift; sourceTree = "<group>"; };
+		4B4BBA431D87E555000FD3E8 /*  */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = folder; name = ""; sourceTree = "<group>"; };
 		4B4BBA941D88D81B000FD3E8 /* CloudKitManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CloudKitManager.swift; sourceTree = "<group>"; };
 		4B7D6E841D8374C800A665D9 /* TImeline.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TImeline.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B7D6E871D8374C800A665D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -103,7 +103,7 @@
 		4BB51FDA1D849F6B00B8C6EA /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				4B4BBA431D87E555000FD3E8 /* PhotoSelectViewController.swift */,
+				4B4BBA431D87E555000FD3E8 /*  */,
 				4BB51FE31D84AA4A00B8C6EA /* PostTableViewCell.swift */,
 				4BB51FD11D8495A900B8C6EA /* SearchResultsTableViewController.swift */,
 				4BB51FCF1D84945700B8C6EA /* AddPostTableViewController.swift */,
@@ -239,7 +239,7 @@
 				4BB51FDD1D849FBC00B8C6EA /* Comment.swift in Sources */,
 				4BB51FCE1D848ED500B8C6EA /* PostDetailTableViewController.swift in Sources */,
 				4B4BB9FA1D86F3A0000FD3E8 /* SearchableRecord.swift in Sources */,
-				4B4BBA441D87E555000FD3E8 /* PhotoSelectViewController.swift in Sources */,
+				4B4BBA441D87E555000FD3E8 /*  in Sources */,
 				4B4BBA951D88D81B000FD3E8 /* CloudKitManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
